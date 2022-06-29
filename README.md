@@ -3,17 +3,17 @@
 
 This folder contains unit tests for the backend of Placementor: a software application for managing online placements, written using python unittest and Flask-Testing
 
-## Folder Structure:
+### Folder Structure:
 
 .
 ├── app
-│   └── test
-│       └── __init__.py
-│       └── test_config.py
-│       └── base.py
-│       └── test_model.py
-│       └── test_auth.py
-│       └── test_usecases.py
+│   └── test
+│       ├── __init__.py
+│       ├── base.py
+│       ├── test_auth.py
+│       ├── test_config.py
+│       ├── test_model.py
+│       └── test_usecases.py
 
 
 **test_config:** Tests for the configurations required in different environments- 'Production', 'Development' and 'Testing'
