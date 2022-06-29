@@ -3,7 +3,7 @@
 
 This folder contains unit tests for the backend of Placementor: a software application for managing online placements, written using python unittest and Flask-Testing
 
-### Folder Structure:
+## Folder Structure:
 
 .
 ├── app
@@ -21,7 +21,7 @@ This folder contains unit tests for the backend of Placementor: a software appli
 **test_model:** Tests for pushing and retrieving user data from the database
 **test_usecases:** Tests for Usecases and routes as specified in **routes.py**
 
-## To run the tests, run the following command on your system terminal:
+### To run the tests, run the following command on your system terminal:
 '''
 $ python manage.py test
 '''
