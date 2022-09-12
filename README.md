@@ -1,7 +1,7 @@
 
-## Flask Unit Testing
+## Placementor Backend
 
-This folder contains unit tests for the backend of Placementor: a software application for managing online placements, written using python unittest and Flask-Testing
+The test folder contains unit tests for the backend implementation of Placementor: a software application for managing online placements, written using python unittest and Flask-Testing
 
 ### Folder Structure:
 <pre>
